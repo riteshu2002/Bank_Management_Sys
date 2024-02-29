@@ -8,7 +8,7 @@ Project Overview:
 The banking management system comprises two main functionalities: user login and user signup. It utilizes a MySQL database for storing user information and accounts.
 
 ##  Features:
-   # User Login:
+   ### User Login:
 
         Allows existing users to log in using their card number and PIN.
         
