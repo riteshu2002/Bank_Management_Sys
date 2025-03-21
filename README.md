@@ -1,4 +1,4 @@
-# Bank_Management_Sys
+# ATM-Simulator
 
 
 
